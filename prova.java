@@ -1,4 +1,4 @@
-// João Vitor Alves Fahning-20220005772 e Renan Gondim Dias de Albuquerque-20220070645
+// João Vitor Alves Fahning-20220005772
 
 import java.util.Scanner;
 
